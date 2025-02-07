@@ -8,7 +8,13 @@
 
 ###
 
-<p align="center">With over 8 years of coding experience, I have honed my skills in a variety of programming languages and technologies, all about writing clean, maintainable code   -- Check me out on : https://tryhackme.com/r/p/x4rch4n63lx</p>
+<p align="center">With over 8 years of coding experience, I have honed my skills in a variety of programming languages and technologies, all about writing clean, maintainable code. My expertise spans web development, software engineering, and cybersecurity. My passion for coding has driven me to continuously learn and adapt to new tools and frameworks, ensuring that I stay at the forefront of technological advancements.
+
+I have successfully completed numerous projects, ranging from small-scale applications to complex enterprise systems. My attention to detail and commitment to delivering high-quality solutions have earned me a reputation for reliability and excellence in the tech community.
+
+In addition to my technical skills, I am an active member of online coding communities, where I share my knowledge and collaborate with fellow developers to solve challenging problems. I am particularly proud of my contributions to open-source projects, which have helped improve software accessibility and functionality for users worldwide.
+
+Check me out on : https://tryhackme.com/r/p/x4rch4n63lx</p>
 
 ###
 
