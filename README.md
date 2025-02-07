@@ -10,9 +10,11 @@
 
 <p align="center">With over 8 years of coding experience, I've forged a path through the digital realm, mastering an array of programming languages and technologies. My code isn't just clean and maintainable—it's a work of art. Whether it's web development, software engineering, or diving deep into cybersecurity, I'm always at the cutting edge, pushing the boundaries of what's possible.
 
-I've built innovative solutions, contributed to large-scale systems, and created apps that have made a real impact. My unwavering focus on quality and detail has made me a go-to person in the tech community.
+I've built innovative solutions, contributed to large-scale systems, and created apps that have made a real impact. 
+My unwavering focus on quality and detail has made me a go-to person in the tech community.
 
-When I'm not knee-deep in code, you'll find me immersed in online coding communities. I love sharing my knowledge and teaming up with fellow developers to crack the toughest challenges. My contributions to open-source projects are a testament to my dedication to making software better and more accessible for everyone.
+When I'm not knee-deep in code, you'll find me immersed in online coding communities. I love sharing my knowledge and teaming up with fellow developers to crack the toughest challenges. 
+My contributions to open-source projects are a testament to my dedication to making software better and more accessible for everyone.
 
 Check me out on : https://tryhackme.com/r/p/x4rch4n63lx</p>
 
