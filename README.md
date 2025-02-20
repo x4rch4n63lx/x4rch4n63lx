@@ -1,12 +1,12 @@
 <div align="center">
-  <img height="200" src="https://camo.githubusercontent.com/4c68275a512f781093644d02ce4a168004487b4813cb2785a1d3d617d23aad0a/68747470733a2f2f726561646d652d747970696e672d7376672e64656d6f6c61622e636f6d2f3f666f6e743d506978656c6966792b53616e732673697a653d3332266475726174696f6e3d323535302670617573653d3130303026636f6c6f723d6666666666662672616e646f6d66616c73652677696474683d343335266c696e65733d57656c636f6d652b746f2b6d792b70726f66696c652b21"  />
+  <img height="200" src="https://camo.githubusercontent.com/4c68275a512f781093644d02ce4a168004487b4813cb2785a1d3d617d23aad0a/68747470733a2f2f726561646d652d747970696e672d7376672e64656d6f6c61622e636f6d2f3f666f6e743d506978656c6966792b53616e732673697a653d3332266475726174696f6e3d323535302670617573653d3130303026636f6c6f723d6666666666662672616e646f6d3d66616c73652677696474683d343335266c696e65733d57656c636f6d652b746f2b6d792b70726f66696c652b21"  />
 </div>
 
-<div align="center">
-  <img src="https://tenor.com/bwV4Y.gif" alt="Animated GIF" />
-</div>
+###
 
 <h2 align="center">My Name is : x_4rch4n63l_x - ArchAngel</h2>
+
+###
 
 <p align="center">
   With over 8 years of coding experience, I've forged a path through the digital realm, mastering an array of programming languages and technologies. My code isn't just clean and maintainable—it's a work of art. Whether it's web development, software engineering, or diving deep into cybersecurity, I'm always at the cutting edge, pushing the boundaries of what's possible.
@@ -17,6 +17,9 @@
 <p align="center">
   Check me out on: <a href="https://tryhackme.com/r/p/x4rch4n63lx">TryHackMe</a>
 </p>
+
+
+###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="30" alt="debian logo"  />
@@ -60,11 +63,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
 
+
+
+###
+
 <div align="left">
   <a href="https://tryhackme.com/r/p/x4rch4n63lx" target="_blank">
     <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="tryhackme logo"  />
   </a>
   <a href="https://discordapp.com/users/x_4rch4n63l_x" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord log
-  </a>
-</div>
