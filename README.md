@@ -1,19 +1,22 @@
 <div align="center">
-  <img height="200" src="https://camo.githubusercontent.com/4c68275a512f781093644d02ce4a168004487b4813cb2785a1d3d617d23aad0a/68747470733a2f2f726561646d652d747970696e672d7376672e64656d6f6c61622e636f6d2f3f666f6e743d506978656c6966792b53616e732673697a653d3332266475726174696f6e3d323535302670617573653d3130303026636f6c6f723d6666666666662672616e646f6d3d66616c73652677696474683d343335266c696e65733d57656c636f6d652b746f2b6d792b70726f66696c652b21" alt="Animated GIF" />
+  <img height="200" src="https://camo.githubusercontent.com/4c68275a512f781093644d02ce4a168004487b4813cb2785a1d3d617d23aad0a/68747470733a2f2f726561646d652d747970696e672d7376672e64656d6f6c61622e636f6d2f3f666f6e743d506978656c6966792b53616e732673697a653d3332266475726174696f6e3d323535302670617573653d3130303026636f6c6f723d6666666666662672616e646f6d7365616c73652677696474683d343335266c696e65733d57656c636f6d652b746f2b6d792b70726f66696c652b21" alt="Animated GIF" />
   <br />
   <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGFjNzlka2g4NmhrcGhwejJubG5pOGthdWVoOGk5dXBkbTRseGI3ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2SvePlXEmRak8/giphy.gif" alt="Animated GIF" />
 </div>
 
-<h2 align="center">My Name is : x_4rch4n63l_x - ArchAngel</h2>
+<h2 align="center" style="font-family: 'Montserrat', sans-serif;">My Name is : x_4rch4n63l_x - ArchAngel</h2>
 
-<p align="center">
+<p align="center" style="font-family: 'Roboto', sans-serif;">
   With over 8 years of coding experience, I've forged a path through the digital realm, mastering an array of programming languages and technologies. My code isn't just clean and maintainable—it's a work of art. Whether it's web development, software engineering, or diving deep into cybersecurity, I'm always at the cutting edge, pushing the boundaries of what's possible.
 </p>
-<p align="center">
+<p align="center" style="font-family: 'Roboto', sans-serif;">
   When I'm not knee-deep in coding, you'll find me immersed in online coding communities. I love sharing my knowledge, My contributions to open-source projects are a testament to my dedication to making software better and more accessible for everyone.
 </p>
-<p align="center">
+<p align="center" style="font-family: 'Roboto', sans-serif;">
   Check me out on: <a href="https://tryhackme.com/r/p/x4rch4n63lx">TryHackMe</a>
+</p>
+<p align="center" style="font-family: 'Roboto', sans-serif;">
+  <strong>Profile Views:</strong> <span id="view-counter">1234</span>
 </p>
 
 <div align="left">
