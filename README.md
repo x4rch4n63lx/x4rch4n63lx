@@ -59,7 +59,13 @@
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" height="30" alt="php logo" />
   <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Command-line_icon.png" height="30" alt="batch logo" />
+  <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/JSON_vector_logo.svg" height="30" alt="json logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="google cloud logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/perl/perl-original.svg" height="30" alt="perl logo" />
 </div>
 
 <div align="left">
@@ -70,3 +76,4 @@
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
   </a>
 </div>
+
