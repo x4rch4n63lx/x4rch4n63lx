@@ -4,15 +4,15 @@
   <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGFjNzlka2g4NmhrcGhwejJubG5pOGthdWVoOGk5dXBkbTRseGI3ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2SvePlXEmRak8/giphy.gif" alt="Animated GIF" />
 </div>
 
-<h2 align="center">My Name is : x_4rch4n63l_x - ArchAngel</h2>
+<h2 align="center" style="font-family: 'Montserrat', sans-serif;">My Name is : x_4rch4n63l_x - ArchAngel</h2>
 
-<p align="center">
+<p align="center" style="font-family: 'Roboto', sans-serif;">
   With over 8 years of coding experience, I've forged a path through the digital realm, mastering an array of programming languages and technologies. My code isn't just clean and maintainable—it's a work of art. Whether it's web development, software engineering, or diving deep into cybersecurity, I'm always at the cutting edge, pushing the boundaries of what's possible.
 </p>
-<p align="center">
+<p align="center" style="font-family: 'Roboto', sans-serif;">
   When I'm not knee-deep in coding, you'll find me immersed in online coding communities. I love sharing my knowledge, My contributions to open-source projects are a testament to my dedication to making software better and more accessible for everyone.
 </p>
-<p align="center">
+<p align="center" style="font-family: 'Roboto', sans-serif;">
   Check me out on: <a href="https://tryhackme.com/r/p/x4rch4n63lx">TryHackMe</a>
 </p>
 
@@ -61,8 +61,6 @@
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/JSON_vector_logo.svg" height="30" alt="json logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="google cloud logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/perl/perl-original.svg" height="30" alt="perl logo" />
 </div>
 
@@ -73,5 +71,4 @@
   <a href="https://discordapp.com/users/x_4rch4n63l_x" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
   </a>
-</div>
-
+</
