@@ -13,7 +13,7 @@
   When I'm not knee-deep in coding, you'll find me immersed in online coding communities. I love sharing my knowledge, My contributions to open-source projects are a testament to my dedication to making software better and more accessible for everyone.
 </p>
 <p align="center">
-  Check me out on: <a href="https://tryhackme.com/r/p/x4rch4n63lx">TryHackMe</a>
+  Check me out on : <a href="https://tryhackme.com/r/p/x4rch4n63lx">TryHackMe</a>
 </p>
 
 <div align="left">
