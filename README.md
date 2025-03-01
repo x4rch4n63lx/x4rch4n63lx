@@ -69,5 +69,5 @@
   <a href="https://discordapp.com/users/x_4rch4n63l_x" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
   </a>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=x4rch4n63lx&label=Profile%20views&color=0e75b6&style=flat" alt="x4rch4n63lx" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=x4rch4n63lx&label=Profile1%20views&color=0e75b6&style=flat" alt="x4rch4n63lx" /> </p>
 </div>
