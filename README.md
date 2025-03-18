@@ -7,7 +7,7 @@
 <h2 align="center">My Name is : x_4rch4n63l_x - ArchAngel</h2>
 
 <p align="center">
-  With over 8 years of coding experience, I've forged a path through the digital realm, mastering an array of programming languages and technologies. My code isn't just clean and maintainable—it's a work of art. Whether it's web development, software engineering, or diving deep into cybersecurity, I'm always at the cutting edge, pushing the boundaries of what's possible.
+  With over 8 years of coding experience, I've forged a path through the digital realm, mastering an array of programming languages and technologies. My code isn't just clean and maintainable—it's a work of art. Whether it's web development, software engineering, or diving deep into cybersecurity, I'm always at the cutting edge, pushing the boundaries of what's possible..
 </p>
 <p align="center">
   When I'm not knee-deep in coding, you'll find me immersed in online coding communities. I love sharing my knowledge, My contributions to open-source projects are a testament to my dedication to making software better and more accessible for everyone.
