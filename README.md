@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://camo.githubusercontent.com/4c68275a512f781093644d02ce4a168004487b4813cb2785a1d3d617d23aad0a/68747470733a2f2f726561646d652d747970696e672d7376672e64656d6f6c61622e636f6d2f3f666f6e743d506978656c6966792b53616e732673697a653d3332266475726174696f6e3d323535302670617573653d3130303026636f6c6f723d6666666666662672616e646f6d3d66616c73652677696474683d343335266c696e65733d57656c636f6d652b746f2b6d792b70726f66696c652b21" alt="Animated GIF" />
+  <img height="200" src="https://camo.githubusercontent.com/4c68275a512f781093644d02ce4a168004487b4813cb2785a1d3d617d23aad0a/68747470733a2f2f726561646d652d747970696e672d7376672e64656d6f6c61622e636f6d2f3f666f6e743d506978656c6966792b53616e732673697a653d3332266475726174696f6e3d323535302670617573653d3130303026636f6c6f723d6666666666662672616e646f6d66616c73652677696474683d343335266c696e65733d57656c636f6d652b746f2b6d792b70726f66696c652b21" alt="Animated GIF" />
   <br />
   <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGFjNzlka2g4NmhrcGhwejJubG5pOGthdWVoOGk5dXBkbTRseGI3ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2SvePlXEmRak8/giphy.gif" alt="Animated GIF" />
 </div>
@@ -23,9 +23,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="30" alt="ubuntu logo" />
-  <img width
-
-="12" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="30" alt="putty logo" />
@@ -56,7 +54,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo" />
   <img width="12" />
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="kubernetes logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo" />
@@ -76,9 +73,10 @@
   <a href="https://www.instagram.com/x.4rch4n63l.x/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
   </a>
-  <a href="https://www.hackthebox.com/x4rch4n63lx" target="_blank">
+  <a href="https://app.hackthebox.com/profile/x4rch4n63lx" target="_blank">
     <img src="https://img.shields.io/static/v1?message=HackTheBox&logo=hackthebox&label=&color=9F2B68&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackthebox logo" />
   </a>
   <p align="left">
     <img src="https://komarev.com/ghpvc/?username=x4rch4n63lx&label=Profile%20views&color=0e75b6&style=flat" alt="x4rch4n63lx" />
   </p>
+</div>
