@@ -75,7 +75,9 @@
   <a href="https://www.instagram.com/x.4rch4n63l.x/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
   </a>
+  <a href="https://app.hackthebox.com/profile/x4rch4n63lx" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=HackTheBox&logo=hackthebox&label=&color=9F2B68&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackthebox logo" />
+  </a>
   <p align="left">
     <img src="https://komarev.com/ghpvc/?username=x4rch4n63lx&label=Profile%20views&color=0e75b6&style=flat" alt="x4rch4n63lx" />
   </p>
-</div>
