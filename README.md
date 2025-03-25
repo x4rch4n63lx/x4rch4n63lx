@@ -8,7 +8,8 @@
 <p align="center">
   With over 8 years of coding experience, I've forged a path through the digital realm, mastering an array of programming languages and technologies. My code isn't just clean and maintainable—it's a work of art. Whether it's web development, software engineering, or diving deep into cybersecurity, I'm always at the cutting edge, pushing the boundaries of what's possible.
 </p>
-<p align="center">
+<p align
+="center">
   When I'm not knee-deep in coding, you'll find me immersed in online coding communities. I love sharing my knowledge, My contributions to open-source projects are a testament to my dedication to making software better and more accessible for everyone.
 </p>
 <p align="center">
@@ -62,6 +63,7 @@
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/JSON_vector_logo.svg" height="30" alt="json logo" />
 </div>
+
 
 <div align="left">
   <a href="https://tryhackme.com/r/p/x4rch4n63lx" target="_blank">
