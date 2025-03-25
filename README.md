@@ -66,13 +66,13 @@
 
 <div align="left">
   <a href="https://tryhackme.com/r/p/x4rch4n63lx" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="tryhackme logo" />
+    <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="tryhackme logo" />
   </a>
   <a href="https://discordapp.com/users/x_4rch4n63l_x" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
   </a>
   <a href="https://www.instagram.com/x.4rch4n63l.x/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
   </a>
   <a href="https://app.hackthebox.com/profile/x4rch4n63lx" target="_blank">
     <img src="https://img.shields.io/static/v1?message=HackTheBox&logo=hackthebox&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackthebox logo" />
