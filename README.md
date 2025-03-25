@@ -78,6 +78,6 @@
     <img src="https://img.shields.io/static/v1?message=HackTheBox&logo=hackthebox&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackthebox logo" />
   </a>
   <p align="left">
-    <img src="https://komarev.com/ghpvc/?username=x4rch4n63lx&label=Profile%20views&color=0e75b6&style=flat" alt="x4rch4n63lx" />
+    <img src="https://komarev.com/ghpvc/?username=x4rch4n63lx&label=Profile%20views&color=000000&style=flat" alt="x4rch4n63lx" />
   </p>
 </div>
