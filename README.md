@@ -10,7 +10,7 @@
 </p>
 <p align
 ="center">
-  When I'm not knee-deep in coding, you'll find me immersed in online coding communities. I love sharing my knowledge, My contributions to open-source projects are a testament to my dedication to making software better and more accessible for everyone.
+  When I'm not knee-deep in coding, you'll find me immersed in online coding communities. I love sharing my knowledge, My contributions to open-source projects are a testament to my dedication to making software better and more accessible for everyone..
 </p>
 <p align="center">
   Check me out on : 
