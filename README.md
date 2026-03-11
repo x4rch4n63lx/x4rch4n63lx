@@ -1,4 +1,4 @@
-<div align="center"><img height="200" src="https://tenor.com/view/welcome-duta-gif-18637300" alt="Animated GIF"
+<div align="center"><img height="200" src="[https://tenor.com/view/welcome-duta-gif-18637300](https://tenor.com/bqmzM.gif)" alt="Animated GIF"
   <br />
   <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGFjNzlka2g4NmhrcGhwejJubG5pOGthdWVoOGk5dXBkbTRseGI3ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2SvePlXEmRak8/giphy.gif" alt="Animated GIF" />
 </div>
